@@ -1,0 +1,16 @@
+Creating Datasets - https://www.youtube.com/watch?v=DaHAzCaXWYQ
+Loading Datasets - https://www.youtube.com/watch?v=KRgq4VnCr7I
+Gathering and Processing the Gutenberg Project - https://github.com/mbforbes/Gutenberg
+Using GPT2 by HuggingFace - https://towardsdatascience.com/deploy-a-text-generating-api-with-hugging-faces-distilgpt-2-9791b9f356f9
+Seq2Seq Model Used - https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/seq2seq_transformer/seq2seq_transformer.py
+Dictionary Used -  https://github.com/dwyl/english-words/ 
+Simpler Gutenberg dataset - https://stackabuse.com/python-for-nlp-deep-learning-text-generation-with-keras/
+Which Evaluation Method is Best -  https://arxiv.org/pdf/2006.14799.pdf 
+Finding the Optimal Dropout Rate - https://www.reddit.com/r/MachineLearning/comments/3oztvk/why_50_when_using_dropout/
+Trying to Fix Overfitting - https://www.youtube.com/watch?v=DEMmkFC6IGM
+BLEU Score Smoothing Function - https://stackoverflow.com/questions/46444656/bleu-scores-could-i-use-nltk-translate-bleu-score-sentence-bleu-for-calculating
+Split dataset into even chunks - https://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks
+Turn 2D list into 1D list - https://stackoverflow.com/questions/29244286/how-to-flatten-a-2d-list-to-1d-without-using-numpy#29244457
+Finding verses - https://stackoverflow.com/questions/11475885/python-replace-regex
+Weird UnicodeEncodeError - https://stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters
+Save Vocabulary - https://stackoverflow.com/questions/61245215/saving-vocabulary-object-from-pytorchs-torchtext-library#61250485
