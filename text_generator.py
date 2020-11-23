@@ -17,7 +17,7 @@ def predict(payload):
     return output
 
 def write(string, filename):
-    with io.open(os.path.join('./output/', filename), "a") as output:
+    with io.open(os.path.join('./output/', filename), "a", encoding="utf-8") as output:
         output.write('\n{}'.format(string))
 
     # with open(os.path.join('./output/', filename),"a") as output:
