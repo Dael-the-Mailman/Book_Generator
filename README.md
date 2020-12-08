@@ -19,6 +19,8 @@ Creates a text file that is 90,000 words long from a single starting sentence. W
 
 ## Installation
 ```
+cd ./file/location
+git clone https://github.com/Dael-the-Mailman/Book_Generator.git
 conda create --name bookgenerator
 conda activate bookgenerator
 pip install numpy pandas nltk 
