@@ -1,5 +1,5 @@
 # Book Generator
-![Project Image](project-image-url)
+[![I created an AI to write books](http://img.youtube.com/vi/8V6f5BLcTnI/0.jpg)](http://www.youtube.com/watch?v=8V6f5BLcTnI)
 
 ---
 
